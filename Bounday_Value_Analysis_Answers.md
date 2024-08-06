@@ -1,16 +1,16 @@
 Task 1: Identify Boundary Values
 
-| Boundary Values                |
-|--------------------------------|
-| - 0                            |
-| - 1                            |
-| - 50                           |
-| - 99                           |
-| - 100                          |
-| - 101                          |
-| - negative number              |
-| - not a number                 |
-|                                |
+| Boundary Values              |
+|------------------------------|
+| 0                            |
+| 1                            |
+| 50                           |
+| 99                           |
+| 100                          |
+| 101                          |
+| negative number              |
+| not a number                 |
+| no input - blank             |
 
 
 Task 2: Design Test Cases
